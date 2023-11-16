@@ -209,26 +209,17 @@ p {
     font-size: medium;
     position: static;
   }
+  .content {
+    padding-left: 20px;
+    padding-top: 50px;
+  }
   .search-engine-optimization{
-    width:128%;
+    width:130%;
   }
   .online-reputation-management{
-    width:128%;
+    width:130%;
   }
   .social-media-marketing{
-    width:128%;
-  }
-  .benefits {
-    margin: auto;
-    position: relative;
-    float: none;
-    height: auto;
-    width: 36%;
-    display: -webkit-inline-box;
-    background-color: #0072bb;
-  }
-  .benefits p {
-    padding: 26px;
-    font-size: large;
+    width:130%;
   }
 }
