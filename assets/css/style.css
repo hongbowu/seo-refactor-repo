@@ -203,23 +203,46 @@ p {
 
 @media screen and (max-width: 1029px) {
   .header h1 {
-    font-size: medium;
+   font-size: 200%;
   }
-  .header div {
-    font-size: medium;
-    position: static;
+  .header div{
+    padding-top: 1%;
+    font-size: 75%;
   }
   .content {
-    padding-left: 20px;
-    padding-top: 50px;
+    width: 75%;
   }
-  .search-engine-optimization{
-    width:130%;
+  .content img{
+    width: 35%;
   }
-  .online-reputation-management{
-    width:130%;
+  .benefits{
+    margin-right: 1%;
   }
-  .social-media-marketing{
-    width:130%;
+}
+@media screen and (max-width: 768px) {
+  .header h1 {
+   font-size: 150%;
+  }
+  .header div{
+    padding-top: 1%;
+    font-size: 75%;
+  }
+  .content {
+    width: 75%;
+  }
+  .content img{
+    width: 35%;
+  }
+  .content p{
+    font-size: 50%;
+  }
+  .benefits{
+    margin-right: 1%;
+  }
+  .benefits h3{
+    font-size: 100%;
+  }
+  .benefits img{
+    width: 100%;
   }
 }
