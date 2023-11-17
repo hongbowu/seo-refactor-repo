@@ -23,9 +23,18 @@ Horiseon Webpage is a comprehensive website featuring images and content. It is 
 ## Getting Started
 To experience the optimized Horiseon Webpage, visit this link and explore the services offered.
 https://hongbowu.github.io/seo-refactor-repo/
+## for 1029px
+![seo1](https://github.com/hongbowu/seo-refactor-repo/assets/150502482/a624325c-4b71-4210-b869-ea61bb27d383)
+![Seo2](https://github.com/hongbowu/seo-refactor-repo/assets/150502482/9fff75ef-cf0e-4acc-94ab-3e78b2e44737)
+
+## for 768px
+![Seo3](https://github.com/hongbowu/seo-refactor-repo/assets/150502482/8b75494c-304b-4d52-b505-eebf436969a7)
+![Seo4](https://github.com/hongbowu/seo-refactor-repo/assets/150502482/5a669ef8-f614-47b1-ae35-5472b5ba85f1)
+
 
 ## Contribution Guidelines
 If you wish to contribute to the Horiseon Webpage project, follow these guidelines:
+
 
 1.Fork the repository.
 2.Create a new branch for your feature or bug fix.
