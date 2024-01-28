@@ -25,7 +25,7 @@ body {
   color: #d9dcd6;
 }
 
-.header div {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -33,11 +33,11 @@ body {
   font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
   list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -205,7 +205,7 @@ p {
   .header h1 {
    font-size: 200%;
   }
-  .header div{
+  .header nav{
     padding-top: 1%;
     font-size: 75%;
   }
@@ -215,34 +215,22 @@ p {
   .content img{
     width: 35%;
   }
-  .benefits{
-    margin-right: 1%;
-  }
 }
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 816px) {
   .header h1 {
    font-size: 150%;
   }
-  .header div{
-    padding-top: 1%;
+  .header nav{
     font-size: 90%;
   }
   .content {
-    width: 75%;
-  }
-  .content img{
-    width: 35%;
+    width: 95%;
   }
   .content p{
-    font-size: 50%;
+    font-size: 75%;
   }
   .benefits{
-    margin-right: 1%;
-  }
-  .benefits h3{
-    font-size: 100%;
-  }
-  .benefits img{
-    width: 100%;
+    width: 95%;
   }
 }
