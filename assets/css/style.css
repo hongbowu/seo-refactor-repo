@@ -232,5 +232,7 @@ p {
   }
   .benefits{
     width: 95%;
+    margin-left: 20px;
+    float: none;
   }
 }
